@@ -23,3 +23,9 @@ sh install.sh
 2. Restart Xcode.
 3. Go to `Xcode` > `Preferences` > `Fonts & Colors`.
 4. Select **Monokai Revisited**.
+
+## Thanks
+Special thanks to:
+
+* halyconmobile for the [Monokai Revisited theme](https://github.com/halcyonmobile/xcode-monokai-revisited).
+* Monokai for the [Monokai Pro colorscheme](monokai.pro).
